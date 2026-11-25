@@ -1,4 +1,4 @@
 # test-demo
 <br>
-Author - Aditya Kelgandre
+Author - Aditya Kelgandre.
 This is my first Github project.
